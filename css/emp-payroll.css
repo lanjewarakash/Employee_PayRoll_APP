@@ -1,0 +1,82 @@
+.headerContainer {
+    display: flex;
+    background-color: white;
+    padding-left: 10%;
+    border: white solid;
+}
+
+.logoContainer {
+    display: flex;
+    width: 90%;
+}
+
+#logoName {
+    background-color: white;
+    color: rgb(6, 129, 6);
+    font-weight: bolder;
+}
+
+#logoName1 {
+    background-color: white;
+    color: rgb(83, 81, 81);
+    font-weight: bolder;
+
+}
+
+.images{
+    width: 4%;
+}
+
+h3{
+    color: rgb(71, 71, 71);
+}
+
+.details {
+    width: 60%;
+}
+
+.page {
+    position: relative;
+    width: 60%;
+    background-color: white;
+    margin-left: 18%;
+    margin-top: 10px;
+    padding-left: 50px;
+}
+
+* {
+    padding: 7px;
+}
+
+body {
+    background-color: rgb(234, 234, 234);
+}
+
+
+button:hover {
+    background-color: grey;
+}
+
+label {
+     padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+#bt1 {
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-left: 20px;
+}
+.bt {
+    position: absolute;
+    right: 20%;
+    top: 632px;
+}
+
+button { 
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+} 

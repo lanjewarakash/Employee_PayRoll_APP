@@ -1,0 +1,49 @@
+{
+  "employees": [
+    {
+      "name": "Rushikesh Popate",
+      "gender": "Male",
+      "department": "Engineer",
+      "salary": "4-6lpa",
+      "startDate": "1202022",
+      "note": "he is a civil engineer",
+      "id": 22
+    },
+    {
+      "name": "Satish Gabhane",
+      "gender": "Male",
+      "department": "Others",
+      "salary": "8-10lpa",
+      "startDate": "2712020",
+      "note": "he is a contractor",
+      "id": 23
+    },
+    {
+      "name": "Pratik Dadure",
+      "gender": "Male",
+      "department": "Engineer",
+      "salary": "4-6lpa",
+      "startDate": "31112022",
+      "note": "he is a SaleForce",
+      "id": 24
+    },
+    {
+      "name": "Akash Lanjewar",
+      "gender": "Male",
+      "department": "HR",
+      "salary": "6-8lpa",
+      "startDate": "2702022",
+      "note": "He is a Civil Engineer",
+      "id": 25
+    },
+    {
+      "name": "Praful Rakhade",
+      "gender": "Male",
+      "department": "Engineer",
+      "salary": "2-4lpa",
+      "startDate": "2642022",
+      "note": "he is a Electrical",
+      "id": 26
+    }
+  ]
+}
